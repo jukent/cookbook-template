@@ -15,4 +15,4 @@ jobs:
 
   deploy:
     needs: build
-    uses: ProjectPythia/cookbook-actions/.github/workflows/deploy-book.yaml@main
+    uses: jukent/cookbook-actions/.github/workflows/deploy-book.yaml@main
